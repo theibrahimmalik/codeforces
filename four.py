@@ -59,4 +59,23 @@ for loop message
 
 #move to sc/uc repository after monday and then delete this comment 
 
+input:
+- zgtxtxzgtxtxz
+-  gtxgtxzg3z8g4txz3g3z
+
+the problem questions are getting more and more vague.
+it's literally solve for "string1" -> "string1 output", "string2" -> "string2 output"
+
+possible solutions:
+-	Regex
+-	Just for loop it and use lists 
+-	Hashmaps/key-value pairs 
+
+Input/Before = Output/After 
+g = t
+t = g
+x = c
+z = a
+
+
 """

@@ -34,7 +34,7 @@ class AttackCleanup:
                 
                 
         str1 = ''.join(finalMessage)
-        print(str1)
+        return str1
         
 
 
